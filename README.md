@@ -15,9 +15,11 @@ This repository will showcase my skills, share my projects in the topics I'm int
 
 In this section is the list of all my data analytics projects with a brief description.
 
-### HR Analytics Dashboard
+### [HR Analytics Dashboard](https://github.com/Sabonity/Data-Analysis-Project/tree/main/HR%20Data%20Analy)
 
 This HR Analytics Dashboard will provide insights to the HR team and the higher management regarding the company's status of employee attrition.
+
+
 
 
 ### Bike Shop Sales Analysis
