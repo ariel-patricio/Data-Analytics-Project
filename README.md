@@ -19,7 +19,7 @@ In this section is the list of all my data analytics projects with a brief descr
 
 This HR Analytics Dashboard will provide insights to the HR team and the higher management regarding the company's status of employee attrition.
 
-<br/><br/>
+<br/>
 
 ### Bike Shop Sales Analysis
 
