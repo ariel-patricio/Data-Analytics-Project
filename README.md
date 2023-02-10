@@ -9,6 +9,10 @@ You can visit my Linkedin profile and connect with me [here](https://www.linkedi
 
 This repository will showcase my skills, share my projects in the topics I'm interested in, and track my progress in Data Analytics and the Data world.
 
+
+
 ## My Projects
 
 ### HR Data Analysis
+
+    Lorem Ipsum
