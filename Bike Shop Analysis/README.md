@@ -20,11 +20,17 @@ Power BI, SQL(Microsft), Power Query (Data Cleaning and Transformation),  DAX(Da
 
 <br/>
 
+## Table Relationship
+
+![Table Relationship](./Table%20Relationship1.PNG)
+
+<br/>
+
 ## Dataset
 
-We will be using these [pre-written sql script](https://github.com/Sabonity/Data-Analysis-Project/blob/main/HR%20Data%20Analysis/HR%20Raw%20Data.xlsx) and you can execute it to create a database.
+We will be using these [pre-written sql script](https://github.com/Sabonity/Data-Analysis-Project/tree/main/Bike%20Shop%20Analysis/SQL%20Raw%20Data) and you can execute it to create a database.
 
 ## Finish Project
 
-You can click [here](https://github.com/Sabonity/Data-Analysis-Project/blob/main/HR%20Data%20Analysis/HR%20Analytics.xlsx) to download and see the output for this project.
+You can click [here](https://github.com/Sabonity/Data-Analysis-Project/blob/main/Bike%20Shop%20Analysis/Bike%20Sales%20Report.pbix) to download and see the output for this project.
 
