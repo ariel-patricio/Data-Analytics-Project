@@ -1,0 +1,51 @@
+----------Extraction Query to get all the detail for the sales report
+
+SELECT orders.order_id, customers.customer_id, CONCAT((customers.first_name), ' ', customers.last_name) AS customer_name,
+	customers.city, customers.state, orders.order_date, categories.category_name, products.product_name, 
+	SUM(order_items.quantity) AS total_units, SUM(order_items.quantity * order_items.list_price),
+	stores.store_name, CONCAT((staffs.first_name), ' ', staffs.last_name) AS staff_name
+FROM SALES.ORDERS orders
+INNER JOIN SALES.CUSTOMERS customers
+ON customers.customer_id = orders.customer_id
+INNER JOIN SALES.order_items order_items
+ON orders.order_id = order_items.order_id
+INNER JOIN PRODUCTION.products products
+ON order_items.product_id = products.product_id
+INNER JOIN PRODUCTION.categories categories
+ON products.category_id = categories.category_id
+INNER JOIN SALES.stores
+ON orders.store_id = stores.store_id
+INNER JOIN SALES.staffs staffs
+ON orders.staff_id = staffs.staff_id
+GROUP BY orders.order_id, customers.customer_id, CONCAT(customers.FIRST_NAME, ' ', customers.last_name), 
+	customers.city, customers.state, orders.order_date, categories.category_name, products.product_name, stores.store_name,
+	CONCAT((staffs.first_name), ' ', staffs.last_name)
+ORDER BY orders.order_date ASC;
+
+
+
+--------------------------------------------------------
+
+WITH TEST_TBL AS (
+SELECT orders.order_id, customers.customer_id, CONCAT((customers.first_name), ' ', customers.last_name) AS customer_name,
+	customers.city, customers.state, orders.order_date, categories.category_name, products.product_name, 
+	SUM(order_items.quantity) AS total_units, SUM(order_items.quantity * order_items.list_price) as order_items_price,
+	stores.store_name, CONCAT((staffs.first_name), ' ', staffs.last_name) AS staff_name
+FROM SALES.ORDERS orders
+INNER JOIN SALES.CUSTOMERS customers
+ON customers.customer_id = orders.customer_id
+INNER JOIN SALES.order_items order_items
+ON orders.order_id = order_items.order_id
+INNER JOIN PRODUCTION.products products
+ON order_items.product_id = products.product_id
+INNER JOIN PRODUCTION.categories categories
+ON products.category_id = categories.category_id
+INNER JOIN SALES.stores
+ON orders.store_id = stores.store_id
+INNER JOIN SALES.staffs staffs
+ON orders.staff_id = staffs.staff_id
+GROUP BY orders.order_id, customers.customer_id, CONCAT(customers.FIRST_NAME, ' ', customers.last_name), 
+	customers.city, customers.state, orders.order_date, categories.category_name, products.product_name, stores.store_name,
+	CONCAT((staffs.first_name), ' ', staffs.last_name))
+SELECT SUM(TEST_TBL.ORDER_ITEMS_PRICE)
+FROM TEST_TBL;
