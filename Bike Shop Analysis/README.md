@@ -20,7 +20,7 @@ Power BI, SQL(Microsft), Power Query (Data Cleaning and Transformation),  DAX(Da
 
 <br/>
 
-## Table Relationship
+## Table Relationship (STAR Schema)
 
 ![Table Relationship](./Table%20Relationship1.PNG)
 
