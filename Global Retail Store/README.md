@@ -1,12 +1,9 @@
-# HR Analytics Dashboard
+# Global Retail Store
 
-## Description
+## Objective:
 
-Human Resource Management is the process of employing people, training them, compensating them, developing policies relating to the workplace, and developing strategies to retain employees.
 
-This interactive HR Analytics Dashboard will provide insights to the HR team and the higher management regarding the company's status of employee attrition. The dashboard will provide information like KPIs (Employee Count, Attrition Count, Attrition Rate, Number of Active Employees, and the Average age of the employees), the job satisfaction rating based on the survey they conducted, different graphs to visualize the data, and slicer to filter the data based on their needs.
-
-From this analysis, the HR team and higher management will have an idea that will help them to decide on what they need to do.
+Develop an interactive and insightful dashboard to visualize and analyze global retail store performance data. The dashboard will provide comprehensive insights into key metrics, trends, and patterns, enabling stakeholders to make informed decisions and drive strategic initiatives.
 
 <br/>
 
