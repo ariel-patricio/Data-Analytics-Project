@@ -13,8 +13,7 @@ The project involves the design, development, and deployment of a dynamic dashbo
 
 ## Technology Use
 
-Source: Data in Excel format
-Tech Stack: Power BI and Power Query
+Excel (for the Data Source, Power Query, and Power BI
 
 <br/>
 
