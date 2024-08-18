@@ -23,11 +23,15 @@ Excel (for the Data Source, Power Query, and Power BI
 
 ![Product Dashboard](./Image/Product%20Dashboard.png)
 
+![Customer Dashboard](./Image/Customer%20Dashboard.png)
+
+![Store Dashboard](./Image/Store%20Dashboard.png)
+
 <br/>
 
 ## Dataset
 
-We will be using the [HR Raw Data.xlsx](https://github.com/Sabonity/Data-Analysis-Project/blob/main/HR%20Data%20Analysis/HR%20Raw%20Data.xlsx).
+For our dataset, you can find it in [here](./Data) 
 
 ## Finish Project
 
