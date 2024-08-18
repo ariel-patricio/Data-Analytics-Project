@@ -13,7 +13,7 @@ The project involves the design, development, and deployment of a dynamic dashbo
 
 ## Technology Use
 
-Excel (for the Data Source, Power Query, and Power BI
+Excel (for the Data Source), Power Query, and Power BI
 
 <br/>
 
@@ -35,5 +35,5 @@ For our dataset, you can find it in [here](./Data)
 
 ## Finish Project
 
-You can click [here](https://github.com/Sabonity/Data-Analysis-Project/blob/main/HR%20Data%20Analysis/HR%20Analytics.xlsx) to download and see the output for this project.
+You can click [here](./Global%20Electronics%20Retailer%20Dashboard%20v2.pbix) to download and see the output for this project.
 
