@@ -19,7 +19,9 @@ Excel (for the Data Source, Power Query, and Power BI
 
 ## Dashboard Preview
 
-![Sales Dashboard](./Image/Customer%20Dashboard.png)
+![Sales Dashboard](./Image/Sales%20Dashboard.png)
+
+![Product Dashboard](./Image/Product%20Dashboard.png)
 
 <br/>
 
