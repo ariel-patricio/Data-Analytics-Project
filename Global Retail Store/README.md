@@ -31,9 +31,9 @@ Excel (for the Data Source), Power Query, and Power BI
 
 ## Dataset
 
-For our dataset, you can find it in [here](./Data) 
+For our dataset, you can find it in [here](./Data).
 
 ## Finish Project
 
-You can click [here](./Global%20Electronics%20Retailer%20Dashboard%20v2.pbix) to download and see the output for this project.
+Click [here](./Global%20Electronics%20Retailer%20Dashboard%20v2.pbix) to download and view the results of this project, including detailed insights and visualizations.
 
