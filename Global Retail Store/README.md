@@ -1,4 +1,4 @@
-# Global Retail Store
+# Global Retail Store - Dashboard Project
 
 ## Objective:
 
@@ -7,9 +7,14 @@ Develop an interactive and insightful dashboard to visualize and analyze global 
 
 <br/>
 
+## Scope:
+
+The project involves the design, development, and deployment of a dynamic dashboard that integrates data from multiple global retail locations. The dashboard will present a unified view of sales performance, inventory levels, customer demographics, and store operations across different regions.
+
 ## Technology Use
 
-Microsoft Excel, Power Query (Data Cleaning and Transformation), Power Pivot, DAX(Data Analysis Expression), and Data Visualization
+Source: Data in Excel format
+Tech Stack: Power BI and Power Query
 
 <br/>
 
