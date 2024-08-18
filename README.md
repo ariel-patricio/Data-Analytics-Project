@@ -21,6 +21,11 @@ This HR Analytics Dashboard will provide insights to the HR team and the higher 
 
 <br/>
 
+### [Global Retail Store Dashboard](./Global%20Retail%20Store)
+The project involves the design, development, and deployment of a dynamic dashboard that integrates data from multiple global retail locations. The dashboard will present a unified view of sales performance, inventory levels, customer demographics, and store operations across different regions.
+
+<br/>
+
 ### [Bike Shop Sales Analysis](https://github.com/Sabonity/Data-Analysis-Project/tree/main/Bike%20Shop%20Analysis)
 
 In this project, we will explore the bike shop sales for the past three years and generate valuable insight that will help the store owner to see the status of the shop and take necessary action based on the information.
