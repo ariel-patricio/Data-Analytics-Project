@@ -35,7 +35,7 @@ For our dataset, you can find it in [here](./Data).
 
 ## Table Relationship (STAR Schema)
 
-![Table Relationship](./Data%20Relationship.png)
+![Table Relationship](./Image/Data%20Relationship.png)
 
 ## Finish Project
 
