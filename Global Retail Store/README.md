@@ -19,7 +19,7 @@ Excel (for the Data Source, Power Query, and Power BI
 
 ## Dashboard Preview
 
-![HR Analytics Dashbaord](./HR%20Analytics%20Dashboard%20Preview.png)
+![Sales Dashboard](./Image/Customer%20Dashboard.png)
 
 <br/>
 
