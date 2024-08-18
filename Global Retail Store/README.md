@@ -33,6 +33,10 @@ Excel (for the Data Source), Power Query, and Power BI
 
 For our dataset, you can find it in [here](./Data).
 
+## Table Relationship (STAR Schema)
+
+![Table Relationship](./Data%20Relationship.png)
+
 ## Finish Project
 
 Click [here](./Global%20Electronics%20Retailer%20Dashboard%20v2.pbix) to download and view the results of this project, including detailed insights and visualizations.
