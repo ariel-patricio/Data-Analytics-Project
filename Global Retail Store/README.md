@@ -23,7 +23,7 @@ Excel (for the Data Source), Power Query, and Power BI
 
 ![Product Dashboard](./Image/Product%20Dashboard.png)
 
-![Customer Dashboard](./Image/Customers%20Dashboard.png)
+![Customer Dashboard](./Image/Customer%20Dashboard.png)
 
 ![Store Dashboard](./Image/Store%20Dashboard.png)
 
