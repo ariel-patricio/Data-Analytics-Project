@@ -10,7 +10,7 @@ From this analysis, the HR team and higher management will have an idea that wil
 
 <br/>
 
-## Technology Use
+## Technology Used
 
 Microsoft Excel, Power Query (Data Cleaning and Transformation), Power Pivot, DAX(Data Analysis Expression), and Data Visualization
 
