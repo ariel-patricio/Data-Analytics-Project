@@ -11,7 +11,7 @@ Develop an interactive and insightful dashboard to visualize and analyze global 
 
 The project involves the design, development, and deployment of a dynamic dashboard that integrates data from multiple global retail locations. The dashboard will present a unified view of sales performance, inventory levels, customer demographics, and store operations across different regions.
 
-## Technology Use
+## Technology Used
 
 Excel (for the Data Source), Power Query, and Power BI
 
