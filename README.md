@@ -16,20 +16,20 @@ This repository will showcase my skills, share my projects in the topics I'm int
 In this section is the list of all my data analytics projects with a brief description.
 
 ### [HR Analytics Dashboard](https://github.com/Sabonity/Data-Analysis-Project/tree/main/HR%20Data%20Analysis)
-#### Techstack: Microsoft Excel, Power Pivot, and  Power Query 
+#### Tech stack: Microsoft Excel, Power Pivot, and  Power Query 
 
 This HR Analytics Dashboard will provide insights to the HR team and the higher management regarding the company's status of employee attrition.
 
 <br/>
 
 ### [Global Retail Store Dashboard](./Global%20Retail%20Store)
-#### Techstack: Power BI
+#### Tech stack: Power BI
 
 The project involves the design, development, and deployment of a dynamic dashboard that integrates data from multiple global retail locations. The dashboard will present a unified view of sales performance, inventory levels, customer demographics, and store operations across different regions.
 
 <br/>
 
 ### [Web Scraping of Goat Online Shop](./Web%20Scraping%20with%20Selenium)
-#### Techstack: Python, Selenium, Beautiful Soup, Pandas, and Openpyxl
+#### Tech stack: Python, Selenium, Beautiful Soup, Pandas, and Openpyxl
 
 This project involves developing a web scraping solution for extracting product information from the Goat Online Shop, an e-commerce platform specializing in footwear and apparel. The objective is to collect detailed data on products listed on the site, including link, product name,  release date, price and retail price.
