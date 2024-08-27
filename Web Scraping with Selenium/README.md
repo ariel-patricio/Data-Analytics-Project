@@ -1,9 +1,33 @@
 # Web Scraping using Selenium - Goat Online Shop
 
-## Objectives
-  - Data Extraction: Retrieve key product details such as product names, prices, sizes, and stock status from various categories within the Goat Online Shop.
+## Objectives: 
+
+  - Data Extraction: Retrieve key product details such as link, product name, release date, price and retail price from various categories within the Goat Online Shop.
   - Data Organization: Structure the scraped data into a clean and organized format, suitable for analysis or integration with other systems.
   - Automation: Implement an automated scraping process to regularly update the product data, ensuring the information remains current.
+  - Logging: Maintain logs to track the execution of the scraping process, capture any errors, and record the status of data collection.
+
+<br/>
+
+## Methodology: 
+
+  1. Setup: Configure the web scraping environment using Python and relevant libraries, such as Selenium for dynamic content interaction and BeautifulSoup for HTML parsing.
+  2. Scraping Process:
+    - Navigate through product pages and categories.
+    - Extract product attributes and details.
+    - Handle pagination and dynamic content loading.
+  3. Data Storage: Save the collected data in a structured format (Excel) for easy access and further processing.
+  4. Logging:
+    - Log Creation: Implement logging functionality to record the execution flow of the script, including start and end times, and the status of data collection.
+    - Error Logging: Capture and log any errors or exceptions encountered during the scraping process, such as network issues, element not found errors, or changes in page structure.
+    - Progress Tracking: Log the progress of data extraction, including the number of products scraped and any encountered issues.
+  5. Error Handling: Implement robust error handling to manage issues such as missing elements, changes in page structure, or connectivity problems.
 
 
-Develop an interactive and insightful dashboard to visualize and analyze global retail store performance data. The dashboard will provide comprehensive insights into key metrics, trends, and patterns, enabling stakeholders to make informed decisions and drive strategic initiatives.
+## Scope: 
+
+This project aims to provide valuable insights and data-driven decisions by automating the extraction of key product information from the Goat Online Shop and ensuring the process is well-documented and monitored through detailed logging.
+
+## Technology Used
+Python, Selenium, Beautiful Soup, Pandas, and Openpyxl
+
