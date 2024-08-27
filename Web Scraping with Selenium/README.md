@@ -13,14 +13,14 @@
 
   1. Setup: Configure the web scraping environment using Python and relevant libraries, such as Selenium for dynamic content interaction and BeautifulSoup for HTML parsing.
   2. Scraping Process:
-    - Navigate through product pages and categories.
-    - Extract product attributes and details.
-    - Handle pagination and dynamic content loading.
+     2.1 Navigate through product pages and categories.
+     2.2 Extract product attributes and details.
+     2.3 Handle pagination and dynamic content loading.
   3. Data Storage: Save the collected data in a structured format (Excel) for easy access and further processing.
   4. Logging:
-    - Log Creation: Implement logging functionality to record the execution flow of the script, including start and end times, and the status of data collection.
-    - Error Logging: Capture and log any errors or exceptions encountered during the scraping process, such as network issues, element not found errors, or changes in page structure.
-    - Progress Tracking: Log the progress of data extraction, including the number of products scraped and any encountered issues.
+     4.1 Log Creation: Implement logging functionality to record the execution flow of the script, including start and end times, and the status of data collection.
+     4.2 Error Logging: Capture and log any errors or exceptions encountered during the scraping process, such as network issues, element not found errors, or changes in page structure.
+     4.3 Progress Tracking: Log the progress of data extraction, including the number of products scraped and any encountered issues.
   5. Error Handling: Implement robust error handling to manage issues such as missing elements, changes in page structure, or connectivity problems.
 
 
