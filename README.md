@@ -31,3 +31,5 @@ The project involves the design, development, and deployment of a dynamic dashbo
 
 ### [Web Scraping of Goat Online Shop](./Web%20Scraping%20with%20Selenium)
 #### Techstack: Python, Selenium, Beautiful Soup, Pandas, and Openpyxl
+
+This project involves developing a web scraping solution for extracting product information from the Goat Online Shop, an e-commerce platform specializing in footwear and apparel. The objective is to collect detailed data on products listed on the site, including link, product name,  release date, price and retail price.
