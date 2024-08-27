@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm Ariel Patricio! A graduate of Bachelor of Science in Computer Engineering from Rizal Technological University. I have four years of experience in the field of Information Technology, where I held roles such as Java Developer, Cognos Developer, and Software Engineer from my previous company and current company. I am currently a Software Engineer at an IT Company specializing in telecommunication, starting from Sept 2019.
+Hi, I'm Ariel Patricio! A graduate of Bachelor of Science in Computer Engineering from Rizal Technological University. Experienced Software Engineer with years of experience in developing application, evaluating dashboard, developing KPI reports, creating automation, and writing SQL scripts for ad hoc request. Proficient in SQL, Python, Power BI, Excel, IBM Cognos Analytics, Web Scraping, and Power Automate. Strong critical thinking skills, able to analyze data, and extract actionable insights and information from multiple sources. Focused collaborator dedicated to interdisciplinary communication. Possess an understanding of agile scrum methodology. Has the ability to understand new concepts quickly and easily adapts to change.
 
 You can visit my Linkedin profile and connect with me [here](https://www.linkedin.com/in/ariel-patricio/).
 
@@ -29,7 +29,7 @@ The project involves the design, development, and deployment of a dynamic dashbo
 
 <br/>
 
-### [Web Scraping of Goat Online Shop](./Web%20Scraping%20with%20Selenium)
+### [Web Scraping Project](./Web%20Scraping%20with%20Selenium)
 #### Tech stack: Python, Selenium, Beautiful Soup, Pandas, and Openpyxl
 
 This project involves developing a web scraping solution for extracting product information from the Goat Online Shop, an e-commerce platform specializing in footwear and apparel. The objective is to collect detailed data on products listed on the site, including link, product name,  release date, price and retail price.
