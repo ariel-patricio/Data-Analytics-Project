@@ -16,8 +16,8 @@
     1. Navigate through product pages and categories.
     2. Extract product attributes and details.
     3. Handle pagination and dynamic content loading.
-  3. Data Storage: Save the collected data in a structured format (Excel) for easy access and further processing.
-  4. Logging:
+  4. Data Storage: Save the collected data in a structured format (Excel) for easy access and further processing.
+  5. Logging:
      1. Log Creation: Implement logging functionality to record the execution flow of the script, including start and end times, and the status of data collection.
      2. Error Logging: Capture and log any errors or exceptions encountered during the scraping process, such as network issues, element not found errors, or changes in page structure.
      3. Progress Tracking: Log the progress of data extraction, including the number of products scraped and any encountered issues.
