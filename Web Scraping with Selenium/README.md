@@ -31,3 +31,12 @@ This project aims to provide valuable insights and data-driven decisions by auto
 ## Technology Used
 Python, Selenium, Beautiful Soup, Pandas, and Openpyxl
 
+## Output Preview
+![Output Preview](./Output%20Image.png)
+
+You can access the sample output file of this project here [Output.xlsx](https://github.com/ariel-patricio/Data-Analytics-Project/blob/main/Web%20Scraping%20with%20Selenium/output.xlsx).
+
+Click this [Log File](https://github.com/ariel-patricio/Data-Analytics-Project/blob/main/Web%20Scraping%20with%20Selenium/Logs/2024-08-27%2017-46%20Log%20file.log) to access the sample log file after executing the script.
+
+Finally, [here](https://github.com/ariel-patricio/Data-Analytics-Project/blob/main/Web%20Scraping%20with%20Selenium/Web%20Scraping.py) is the python script for this project. 
+
